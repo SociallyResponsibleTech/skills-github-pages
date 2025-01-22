@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Socially Responsible Tech Lab
 ---
+More to come soon!
 
